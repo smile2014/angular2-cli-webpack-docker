@@ -50,14 +50,6 @@ docker-compose up
 
 Nice and easy! :tada: :sparkles: :sparkles:
 
-### First time install
-
-When docker first builds the project it changes the ownership of the node_modules to root. So you should undo that first. I'm pretty sure this is due to my ineptitude with docker so hopefully this will be fixed soon.
-
-```bash
-sudo chown -R <your-username>:<your-username> node_modules
-```
-
 ## See it in action
 
 Navigate to `localhost:4200` in your browser.
