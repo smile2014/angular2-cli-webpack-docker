@@ -17,7 +17,6 @@ Also **I am not an expert** in all of these technologies; I'm just doing my best
 * [Getting Started](#getting-started)
   * [Install angular-cli](#install-angular-cli)
   * [Build and serve](#build-and-serve)
-  * [First time install](#first-time-install)
 * [See it in action](#see-it-in-action)
 * [Installing dependencies](#installing-dependencies)
 * [Angular Cli](#angular-cli)
