@@ -2,7 +2,7 @@
 
 Hello! :wave:
 
-This is a dockerized project generated with [angular-cli](https://github.com/angular/angular-cli) webpack preview version 1.0.0-beta.11-webpack.8. It has [scss](https://github.com/sass/sass), [bootstrap 4](https://github.com/twbs/bootstrap/tree/v4.0.0-alpha.3), [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) and [animate.css](https://github.com/daneden/animate.css) pre-installed and allows you to continue to use the cli to generate components. :ok_hand:
+This is a dockerized project generated with [angular-cli](https://github.com/angular/angular-cli) webpack preview version **1.0.0-beta.11-webpack.8**. It has [scss](https://github.com/sass/sass), [bootstrap 4](https://github.com/twbs/bootstrap/tree/v4.0.0-alpha.3), [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) and [animate.css](https://github.com/daneden/animate.css) pre-installed and allows you to continue to use the cli to generate components. :ok_hand:
 
 ## Please Note
 
